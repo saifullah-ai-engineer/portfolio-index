@@ -2,10 +2,11 @@
 
 AI engineer building real AI systems and sharing the journey publicly. This is the master index of all public repositories on [@saifullah-ai-engineer](https://github.com/saifullah-ai-engineer), grouped by what each project is.
 
-Last updated: 2026-11-09. 26 non-fork public repositories, 0 stars across the account at the time of this update.
+Last updated: 2026-11-09. 27 non-fork public repositories, 0 stars across the account at the time of this update.
 
 ## Featured
 
+- [voice-receptionist-agent](https://github.com/saifullah-ai-engineer/voice-receptionist-agent) — A voice receptionist agent for small businesses. A LangGraph call flow greets callers, understands the intent, collects details, routes the call, and drafts a reply. Text demo runs with no paid API; voice output plugs into the Sopro TTS voice-clone-pipeline. 20 tests, v0.1.0 release.
 - [linkedin-growth-agent](https://github.com/saifullah-ai-engineer/linkedin-growth-agent) — LinkedIn Intelligence and Growth Agent: evidence-based AI strategist with six specialized agents, prospect CRM, content studio, profile optimizer, and a Manifest V3 Chrome extension. Node and Express backend with a secure OpenRouter proxy and SQLite storage. v0.1.0 release.
 - [mcp-agent-starter](https://github.com/saifullah-ai-engineer/mcp-agent-starter) — A LangGraph plus MCP agent template. A compiled StateGraph agent calls tools through a real MCP server: local file search and web fetch, no API key needed for the demo. Add a tool in one place with the registry. 15 tests, v0.1.0 release.
 - [lead-catcher-agent](https://github.com/saifullah-ai-engineer/lead-catcher-agent) — A LangGraph lead qualification agent for local service businesses, agencies, and clinics. It scores inbound enquiries 0 to 100, routes them hot, warm, or cold, drafts a reply, and proposes a booking slot. Demo runs with no paid API. 12 tests, v0.1.0 release.
