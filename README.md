@@ -2,10 +2,11 @@
 
 AI engineer building real AI systems and sharing the journey publicly. This is the master index of all public repositories on [@saifullah-ai-engineer](https://github.com/saifullah-ai-engineer), grouped by what each project is.
 
-Last updated: 2026-11-09. 24 non-fork public repositories, 0 stars across the account at the time of this update.
+Last updated: 2026-11-09. 25 non-fork public repositories, 0 stars across the account at the time of this update.
 
 ## Featured
 
+- [mcp-agent-starter](https://github.com/saifullah-ai-engineer/mcp-agent-starter) — A LangGraph plus MCP agent template. A compiled StateGraph agent calls tools through a real MCP server: local file search and web fetch, no API key needed for the demo. Add a tool in one place with the registry. 15 tests, v0.1.0 release.
 - [lead-catcher-agent](https://github.com/saifullah-ai-engineer/lead-catcher-agent) — A LangGraph lead qualification agent for local service businesses, agencies, and clinics. It scores inbound enquiries 0 to 100, routes them hot, warm, or cold, drafts a reply, and proposes a booking slot. Demo runs with no paid API. 12 tests, v0.1.0 release.
 - [voice-clone-pipeline](https://github.com/saifullah-ai-engineer/voice-clone-pipeline) — Open-source contribution: a lightweight, fully local voice cloning and lip-sync pipeline for content creators. Sopro TTS v2-turbo plus MuseTalk, no GPU and no paid APIs. v0.1.0 release.
 
