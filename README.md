@@ -2,11 +2,12 @@
 
 AI engineer building real AI systems and sharing the journey publicly. This is the master index of all public repositories on [@saifullah-ai-engineer](https://github.com/saifullah-ai-engineer), grouped by what each project is.
 
-Last updated: 2026-11-08. 23 public repositories, all public, 0 stars across the account at the time of this update.
+Last updated: 2026-11-09. 24 non-fork public repositories, 0 stars across the account at the time of this update.
 
 ## Featured
 
-- [voice-clone-pipeline](https://github.com/saifullah-ai-engineer/voice-clone-pipeline) — Open-source contribution: a lightweight, fully local voice cloning and lip-sync pipeline for content creators. Sopro TTS v2-turbo plus MuseTalk, no GPU and no paid APIs. Empty at index time, files being pushed.
+- [lead-catcher-agent](https://github.com/saifullah-ai-engineer/lead-catcher-agent) — A LangGraph lead qualification agent for local service businesses, agencies, and clinics. It scores inbound enquiries 0 to 100, routes them hot, warm, or cold, drafts a reply, and proposes a booking slot. Demo runs with no paid API. 12 tests, v0.1.0 release.
+- [voice-clone-pipeline](https://github.com/saifullah-ai-engineer/voice-clone-pipeline) — Open-source contribution: a lightweight, fully local voice cloning and lip-sync pipeline for content creators. Sopro TTS v2-turbo plus MuseTalk, no GPU and no paid APIs. v0.1.0 release.
 
 ## AI apps
 
@@ -51,7 +52,7 @@ Notes, practice code, and work in progress.
 
 ## Notes on this index
 
-- Empty repositories have no commits yet: Python, Python-, Rag-Based-Agentic-project, Interview-extension, Web-Application, and voice-clone-pipeline at index time.
+- Empty repositories have no commits yet: Python, Python-, Rag-Based-Agentic-project, Interview-extension, and Web-Application.
 - README-only repositories are Student-Toolkit, AI-Deep-Learning, and DevOps-Foundation.
 - Several repositories still need a short description in GitHub, including EarningBee, ai-hacker-flow, Student-Toolkit, and smart_kissan-main.
 - The Python repos overlap: Python, Python-, and Python_Project-s are separate repositories covering similar practice work.
